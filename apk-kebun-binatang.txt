@@ -1,0 +1,5 @@
+----Aplikasi Kebun binatang sederhana------
+
+belajar membuat aplikasi kebun binatang sederhana
+dengan menggunakan bahasa pemograman Kotlin,
+referensi belajar dari udemy kotlin zero to hero I
